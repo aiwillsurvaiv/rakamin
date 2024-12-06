@@ -12,7 +12,7 @@ class Animal {
         return this.#age;
     }
     isAdult() {
-        return this.#age > 18
+        return this.#age > 20
     }
 }
 
